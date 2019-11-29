@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-
+import sys
+sys.path.append('/Users/user/Documents/KAQ3/backend-katas-functions-loops')
 import unittest
 import math
 import random
